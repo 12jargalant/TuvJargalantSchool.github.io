@@ -6,7 +6,7 @@ body, h1, h2, p, ul {
 
 /* Apply general styles */
 body {
-    background-image: url('vecteezy_a-tranquil-scene-of-a-dark-forest-in-black-and-white_27902557.jpg');
+    background-image: url('school.jpg');
     background-size: cover; /* Ensures it covers the whole screen */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents tiling */
