@@ -43,12 +43,12 @@ body {
 .news-content h3 {
     margin: 0;
     font-size: 20px;
-    color: #333;
+    color: #ffffff;
 }
 
 .news-content p {
     font-size: 14px;
-    color: #666;
+    color:#e0e0e0;
     margin: 5px 0;
 }
 
