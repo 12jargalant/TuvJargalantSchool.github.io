@@ -61,7 +61,9 @@ body {
 .nav-links a:hover {
     color: #ffcc00;
 }
-
+.kid {
+    object-fit: logo-container;
+}
 /* Main content */
 main {
     padding: 20px;
