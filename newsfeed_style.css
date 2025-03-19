@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: transparent;
     height: auto;
     width: 1200px;
     margin: auto;
@@ -8,18 +8,6 @@ body {
    /* padding: 0;*/
 }
 
-/* Newsfeed section */
-.newsfeed {
-  width: 60%; /* Adjust width as needed */
-    position: absolute;  /* Position it relative to the screen */
-    left: 0;  /* Move it to the left side of the screen */
-    top: 20px; /* Optional: adds some space from the top */
-    margin: 0; /* Remove default margin */
-    background: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
 
 .newsfeed h2 {
     text-align: left;
