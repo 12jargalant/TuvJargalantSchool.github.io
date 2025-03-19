@@ -40,7 +40,11 @@ body {
     font-size: 24px;
     font-weight: bold;
 }
-
+.kids {
+    width: 60px;
+    height: auto;
+    margin-right: 50px;
+}
 /* Navigation links */
 .nav-links {
     list-style: none;
