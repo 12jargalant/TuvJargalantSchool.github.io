@@ -8,14 +8,14 @@
 /* Body styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #121212; 
+  background-color: #FFFFFF; 
   color: #333;
 }
 
 /* Header styles */
 header {
-  background-color: #8A6BBE;
-  color: white;
+  background-color: #333333;
+ /* color: white;*/
   padding: 1rem;
   display: flex;
   justify-content: space-between;
@@ -25,10 +25,7 @@ header {
 header .logo img {
   width: 100px;
 }
-header #welcome h1 {
-  color: #F4E1D2; /*mendchilgee*/
-  text-align: center;
-}
+
 header nav ul {
   list-style-type: none;
   display: flex;
@@ -52,7 +49,19 @@ header nav ul li a:hover {
 main {
   padding: 20px;
 }
-
+#welcome h1 {
+  width: 200px;
+  float: center;
+  height: 70px;
+}
+#welcome h1 {
+  color: #FFFFFF; /*mendchilgee*/
+  font-size: 35px;
+  font-family: Arial;
+  padding-left: 20px;
+  float: center;
+  padding-top: 10px;
+}
 
 #news ul {
   list-style-type: none;
