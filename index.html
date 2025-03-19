@@ -1,39 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="description" content="Жаргалант сургууль">
-<meta name="robots" content="index, follow">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Төв Жаргалант ЕБС</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Our School</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
     <!-- Header Section -->
-    <header class="navbar">
+    <header class="header">
         <div class="logo-container">
-            <img src="school_logo1.png" alt="Logo" class="logo">
-            <h1 class="site-title">Төв Жаргалант ЕБС</h1>
+            <img src="school_logo.png" alt="School Logo" class="logo">
+            <h1 class="school-name">Our School</h1>
         </div>
         <nav>
             <ul class="nav-links">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
 
-    <!-- Main Content -->
-    <main>
-        <section id="news">
-      <h2>School News</h2>
-    <iframe src="newsfeed.html" width="50%" height="500px"></iframe>
+    <!-- Home Section -->
+    <section id="home" class="section">
+        <h2>School News</h2>
+        <div class="news">
+            <img src="news.jpg" alt="School Event">
+            <p>Exciting news! Our school has won the national science competition.</p>
+        </div>
     </section>
 
-    </main>
+    <!-- About Section -->
+    <section id="about" class="section">
+        <h2>About Our School</h2>
+        <p>Our school was founded in 1950 and has been a place of learning and excellence ever since.</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <h2>Contact Us</h2>
+        <ul>
+            <li><a href="https://www.facebook.com/school" target="_blank">Facebook</a></li>
+            <li><a href="mailto:info@school.com">Email Us</a></li>
+            <li><a href="tel:+123456789">Call Us</a></li>
+        </ul>
+    </section>
 
 </body>
 </html>
