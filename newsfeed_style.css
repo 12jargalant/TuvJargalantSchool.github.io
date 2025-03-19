@@ -8,9 +8,7 @@ body {
 /* Newsfeed section */
 .newsfeed {
   width: 60%; /* Adjust width as needed */
-    /*margin: 20px 0;  Moves it to the left with some spacing */
-    position: absolute;
-    left: 0;
+    margin: 20px 0 20px 0;/* Moves it to the left with some spacing */
     background: white;
     padding: 20px;
     border-radius: 10px;
