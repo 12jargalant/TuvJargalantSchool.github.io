@@ -49,18 +49,24 @@ header nav ul li a:hover {
 main {
   padding: 20px;
 }
-#welcome h1 {
-  width: 200px;
-  float: center;
-  height: 70px;
+.logo-container {
+    display: flex;        /* Enables horizontal alignment */
+    align-items: center;  /* Centers items vertically */
+    gap: 10px;           /* Adds space between logo and title */
+    padding: 10px;
 }
-#welcome h1 {
-  color: #FFFFFF; /*mendchilgee*/
-  font-size: 35px;
-  font-family: Arial;
-  padding-left: 100px;
-  float: center;
-  padding-top: 10px;
+
+/* Styling the logo */
+.logo {
+    width: 50px;  /* Adjust size as needed */
+    height: auto;
+}
+
+/* Styling the title */
+.site-title {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
 }
 
 #news ul {
