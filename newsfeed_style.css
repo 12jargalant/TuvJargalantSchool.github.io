@@ -15,7 +15,7 @@ body {
     left: 0;  /* Move it to the left side of the screen */
     top: 20px; /* Optional: adds some space from the top */
     margin: 0; /* Remove default margin */
-    background: white;
+    background: rgba(0, 0, 0, 0.5);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
