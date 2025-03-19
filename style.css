@@ -8,13 +8,13 @@
 /* Body styles */
 body {
   font-family: Arial, sans-serif;
-  background-color: #FFFFFF; 
+  background-color: #121212; 
   color: #333;
 }
 
 /* Header styles */
 header {
-  background-color: #333333;
+  background-color: #8A6BBE;
   color: white;
   padding: 1rem;
   display: flex;
@@ -51,7 +51,7 @@ main {
 }
 
 #welcome h1 {
-  color: #F1F1F1; /*mendchilgee*/
+  color: #F4E1D2; /*mendchilgee*/
 }
 
 #news ul {
@@ -60,7 +60,7 @@ main {
 }
 
 #news ul li {
-  background-color: #FFFFFF;
+  background-color: #121212;
   margin: 10px 0;
   padding: 10px;
   border-radius: 5px;
