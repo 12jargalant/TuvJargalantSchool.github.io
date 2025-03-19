@@ -40,13 +40,7 @@ body {
     font-size: 24px;
     font-weight: bold;
 }
-.kids {
-    width: 250px;  /* Increase width */
-    height: 150px; /* Increase height */
-    object-fit: cover; /* Ensures the image maintains aspect ratio */
-    border-radius: 5px; 
-    margin-left: 15px;
-}
+
 /* Navigation links */
 .nav-links {
     list-style: none;
