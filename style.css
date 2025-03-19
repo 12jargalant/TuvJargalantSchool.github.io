@@ -6,7 +6,6 @@ body, h1, h2, p, ul {
 
 /* Apply general styles */
 body {
-    font-family: Arial, sans-serif;
     background-image: url('background.jpg');
 }
 
