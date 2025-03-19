@@ -23,7 +23,7 @@ body {
 /* News article container */
 .news-article {
     display: flex;
-    align-items: center;
+    align-items: left;
     background: #fff;
     margin-bottom: 15px;
     padding: 15px;
