@@ -17,7 +17,7 @@ body {
 }
 
 /* Big Title */
-.news-title {
+.history-title {
     font-size: 36px;
     font-weight: bold;
     color: #ffffff;
@@ -25,7 +25,7 @@ body {
 }
 
 /* Centered Image */
-.news-image {
+.history-image {
     width: 100%; /* Adjust width */
     max-width: 600px; /* Prevents it from getting too big */
     height: auto;
@@ -34,8 +34,8 @@ body {
     margin-bottom: 20px;
 }
 
-/* News Content */
-.news-content {
+/* History Content */
+.history-content {
     font-size: 16px;
     color: #f0f0f0;
     width: 80%;
